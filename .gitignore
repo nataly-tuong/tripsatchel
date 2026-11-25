@@ -44,3 +44,8 @@ example
 
 .claude
 .vscode
+
+# env files
+.env
+.env*
+!.env.example
